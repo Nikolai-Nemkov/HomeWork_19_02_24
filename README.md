@@ -50,7 +50,6 @@ public class Stream implements Iterable<Group> {
 
 ## StreamComparator.java
 
-
 import java.util.Comparator;
 public class StreamComparator implements Comparator<Stream> {
 
@@ -59,6 +58,19 @@ public class StreamComparator implements Comparator<Stream> {
         return stream1.groups.size() - stream2.groups.size();
     }
 }
+
+## StreamService.java
+
+import java.util.Collections;
+
+import java.util.List;
+public class StreamService {
+    public void sortStreams(List<Stream> streams) {
+        Collections.sort(streams, new StreamComparator());
+    }
+
+}
+
 
 
 
