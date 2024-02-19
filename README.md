@@ -11,12 +11,20 @@
 https://github.com/Nikolai-Nemkov/HomeWork_19_02_24/blob/main/Group.java 
 
 ## Stream.java
+
+https://github.com/Nikolai-Nemkov/HomeWork_19_02_24/blob/main/Stream.java 
   
 ## StreamComparator.java
+
+https://github.com/Nikolai-Nemkov/HomeWork_19_02_24/blob/main/StreamComparator.java
  
 ## StreamService.java
+
+https://github.com/Nikolai-Nemkov/HomeWork_19_02_24/blob/main/StreamComparator.java
  
 ## main.java
+
+https://github.com/Nikolai-Nemkov/HomeWork_19_02_24/blob/main/Main.java
   
 
 
